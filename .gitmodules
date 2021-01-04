@@ -1,0 +1,4 @@
+[submodule "ipsec"]
+	path = ipsec
+	url = git@git.vauxoo.com:vauxoo/ipsec.git
+	branch = 13.0
