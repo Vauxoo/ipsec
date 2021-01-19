@@ -2,3 +2,7 @@
 	path = ipsec
 	url = git@git.vauxoo.com:vauxoo/ipsec.git
 	branch = 13.0
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = https://git.vauxoo.com/vauxoo/xunnel-account.git
+	branch = 13.0
